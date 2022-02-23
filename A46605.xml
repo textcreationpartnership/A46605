@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>James the Second, by the grace of God, King of England, Scotland, France and Ireland, Defender of the faith, &amp;c. ... Whereas by our letters patents, bearing date the fifth day of March, in the second year of our reign, we were pleased to signifie our royal pleasure, to all our loving subjects, on the behalf of the distressed French Protestants, ...</title>
+            <title>Proclamations. 1688-01-31</title>
+            <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46605</idno>
+            <idno type="STC">Wing J402</idno>
+            <idno type="STC">ESTC R223699</idno>
+            <idno type="EEBO-CITATION">99833984</idno>
+            <idno type="PROQUEST">99833984</idno>
+            <idno type="VID">38463</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46605)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38463)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1834:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>James the Second, by the grace of God, King of England, Scotland, France and Ireland, Defender of the faith, &amp;c. ... Whereas by our letters patents, bearing date the fifth day of March, in the second year of our reign, we were pleased to signifie our royal pleasure, to all our loving subjects, on the behalf of the distressed French Protestants, ...</title>
+                  <title>Proclamations. 1688-01-31</title>
+                  <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>In the Savoy: printed by Thomas Newcomb, one of His Majesties printers,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1687/8. [i.e. 1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from opening words of text.</note>
+                  <note>"Witness our self at Westminster, the one and thirtieth day of January, in the third year of our reign."</note>
+                  <note>"Brief for a collection for French Protestants"--Steele.</note>
+                  <note>Steele notation: Ireland,  Whereas  whole; Arms 107.</note>
+                  <note>Reproduction of the original in the Guildhall Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Huguenots --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:38463:1"/>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">J</seg>AMES the Second, By the Grace of God, King of <hi>England, Scotland, France</hi> and <hi>Ireland,</hi> Defender of the Faith, <hi>&amp;c.</hi>
+               </signed> 
+               <salute>
+                  <hi>TO ALL</hi> and Singular Archbiſhops, Biſhops, Archdeacons, Deans, and their Officials, Parſons, Vicars, Curates, and all other Spiritual Perſons: And alſo to all Iuſtices of the Peace, Mayors, Sheriffs, Bayliffs, Conſtables, Churchwardens, Chappelwardens, Headboroughs, Collectors for the Poor, and their Overſeers: And alſo to all Officers of Cities, Boroughs, and Towns Corporate, and to all other Our Officers, Miniſters and Subjects whatſoever they be, as well within Liberties as without, to whom theſe Preſents ſhall come, Greeting.</salute>
+            </opener>
+            <p>
+               <hi>WHEREAS</hi> by Our Letters Patents, bearing date the fifth day of <hi>March,</hi> in the ſecond year of Our Reign, VVe were pleaſed to ſignifie Our Royal Pleaſure, to all Our loving Subjects, on the behalf of the diſtreſſed French Proteſtants, in theſe words following; <hi>viz.</hi>
+            </p>
+            <p>
+               <q>
+                  <hi>WHEREAS</hi> it is the higheſt Prerogative, and moſt deſirable Advantage of Kings and Sovereign Princes, to have it in Their Power and VVill to do Acts of Publick Clemency and Beneficence; And ſince nothing makes Them more to reſemble the Great God of Heaven, from whom only They derive Their Au<g ref="char:EOLhyphen"/>thority, than to imitate the Devine Goodneſs in the VVorks of Univerſal Mercy and Compaſſion: VVe being informed, that great Numbers of French Pro<g ref="char:EOLhyphen"/>teſtants have lately taken Refuge in this, and Our other Kingdoms, whereof divers being Perſons of good Birth and Quality, having formerly lived in Plenty and Proſperity, are now reduced to extream VVants and Neceſſities; And many others that are bred up and well skilled in uſeful Crafts and Myſteries, are, by reaſon of their preſent Poverties and Diſtreſſes, utterly diſabled, as yet, to exerciſe the ſame, either for the Support of themſelves and their Families, or for the publick Benefit of this Our Kingdom: VVe have thought Our Selves obliged by the Laws of Chriſtian Charity, and common Bonds of Humanity, to take their deplorable Condition into Our tender Care and Princely Compaſſion. And to this end VVe have reſolved to receive into Our Gracious Prote<g ref="char:EOLhyphen"/>ction as many of them as ſhall live in entire Conformity and orderly Submiſſion to Our Government. And beſides other Teſtimonies of Our Royal Pity and Bounty towards them, VVe have condeſcended to Grant them theſe Our Letters Patents under Our Great Seal of <hi>England,</hi> to Licenſe and Authoriſe them to Ask and Receive the Alms and Charitable Contributions of all Our loving Subjects within Our Kingdom of <hi>England,</hi> Dominion of <hi>Wales,</hi> and Town of <hi>Berwick</hi> upon <hi>Tweed.</hi>
+               </q> VVhich Letters Patents ſo given and granted, were to continue in force one whole year from the date thereof, and no longer.</p>
+            <p>
+               <hi>AND whereas</hi> ſince the expiration of the Term of the ſaid Letters Patents, VVe have been informed, that although all the ſeveral Sums of Money which were Collected by Virtue thereof, have been faithfully expended and applyed to the Uſes and Purpoſes within that Brief ſpecified, and by that means a very conſide<g ref="char:EOLhyphen"/>rable Number of thoſe French Proteſtants have been put into a Condition of exerciſing the Arts and Myſteries they were skilled in, or otherwiſe providing for themſelves and Families, without being any longer burthenſom to any: Yet nevertheleſs a great many others, who are altogether uncapable of getting their own Livelyhood, are ſtill under preſſing Neceſſities, and as yet remain utterly unprovided for, (the Publick Stock of Charity upon which they ſubſiſted now failing.) And not only ſo, but, as VVe are informed, great Numbers of diſtreſſed French Proteſtants have, ſince that time, come over into this Our Kingdom, and do ſtill daily come over, ſo that, without the continuance of Our Royal Grace and Compaſſion, and the further Supplies and Charitable Contributions of Our lo<g ref="char:EOLhyphen"/>ving Subjects, a great many of thoſe miſerable People muſt inevitably perish.</p>
+            <p>
+               <hi>UPON</hi> theſe Considerations, and for the ſetting an Example to all Our Subjects of Kindneſs and Humanity to all Perſons in Diſtreſs and Affliction, of what Perſwaſion ſoever, VVe have condeſcended to renew, and now again to grant, Our Letters Patents, under the Great Seal of <hi>England,</hi> to all theſe diſtreſſed French Proteſtants, without any diſtinction, in as full and ample manner as VVe did before; being very deſirous that they ſhould not only find all kind Reception here, but alſo that Benevolence and Charity which VVe doubt not all Our loving Subjects will, in a bountiful manner, contribute toward their preſent Relief and Comfort in this their Affliction.</p>
+            <p>
+               <hi>KNOW YE THEREFORE,</hi> That of Our Eſpecial Grace and Princely Compaſſion, VVe have Given and Granted, and by theſe Our Letters Patents under Our Great Seal of <hi>England,</hi> do Give and Grant unto the ſaid diſtreſſed Proteſtants, and to their Agents, who ſhall be lawfully Authorized on their behalf, full Power, Licenſe and Authority, to Ask, Gather, Receive and Take (according to the Rules ſpecified in theſe Preſents) the Alms and Charitable Benevolence of all Our loving Subjects, not only Houſholders, but Servants, Strangers and Others, within all and every the Counties, Cities, Boroughs, Towns Cor<g ref="char:EOLhyphen"/>porate, Priviledged Places, Pariſhes, Chapelries, Towns, Villages, Hamlets, and all other places whatſoever in Our Kingdom of <hi>England,</hi> Dominion of <hi>Wales,</hi> and Town of <hi>Berwick</hi> upon <hi>Tweed.</hi>
+            </p>
+            <p>
+               <hi>WHEREFORE</hi> VVe Require and Command all and ſingular the Archbiſhops and Biſhops of all the Provinces and Dioceſſes within Our Kingdom of <hi>England,</hi> and Dominion of <hi>Wales,</hi> (unto whoſe Paternal Care and Inſpection VVe chiefly recommend the purſuit of theſe Our Letters Patents,) That they, and every of them, do give a particular Recommendation and Command to all the Parſons, Vicars and Curates of all and every the Pariſhes, and other places, as well within Liberties as without, within their reſpective Dioceſſes, for the Advancement of this ſo pious and Charitable a VVork. And the ſaid Parſons, Vicars and Curates, upon the firſt Lords-Day, or ſecond at fartheſt, after that the true Copies of theſe Our Letters Patents ſhall be delivered to them, ſhall deliverately and affectionately publiſh and declare the Tenor of the ſame to all Our ſaid loving Subjects; and earneſtly perſuade, exhort and ſtir them up, to contribute freely and chearfully towards the Relief of theſe diſtreſſed Chriſtians, by ſuch Motives and Inducements only as in theſe Our Letters Patents are contained. And the Churchwardens are alſo hereby required upon the VVeek-days next following the ſaid Lords-Day, to go from houſe to houſe, to Ask and Receive from all the Pariſhioners, as well Maſters, Miſtreſſes and Servants, as others in their Families, their Chriſtian and Charitable Contributions, and to take the Names in VVriting of all ſuch as ſhall Contribute thereunto, and the Sum or Sums by them reſpectively given. And after ſuch Collection made, they are, in the preſence of the reſpective Inhabitants, on the next Lords-Day following, to ſubſcribe the whole Sums upon the ſaid Briefs, under their hands, and alſo to enter them into Books of Accompts, for the ſaid Pariſhes and Chapelries reſpectively, and the Places where, and the Times when, ſuch Sums were Collected: And they are alſo to deliver the ſame to the ſaid Parſons, Vicars and Curates reſpectively, and the ſaid Parſons, Vicars and Curates are to ſend the ſaid Moneys, to<g ref="char:EOLhyphen"/>gether with the ſaid Briefs, unto their respective Archdeacons: Or if the Pariſh be exempt, to the Archdeacon within the compaſs of whoſe Archdeaconry the ſaid Pariſh lies; And the ſaid ſeveral Archdeacons into the Chamber of Our city of <hi>London,</hi> as herein after is declared and directed. And for the better performance of this ſo pious and charitable a VVork, the ſaid Parſons, Vicars and Curates reſpectively are required (where conveniently they may) to accompany the Church<g ref="char:EOLhyphen"/>wardens in Asking and Receiving the Contributions, or procure ſome other of the chief of the Inhabitants in the ſaid Pariſhes reſpectively to do the ſame.</p>
+            <p>
+               <hi>AND</hi> Our further VVill and Pleaſure is, and VVe do hereby, for the better Advancement of theſe Our pious Intentions, VVill, Require and Command the Biſhops, and all other Dignitaries of the Church, That they make their Contributions diſtinctly to be returned in the ſeveral Provinces to the reſpective Arch<g ref="char:EOLhyphen"/>biſhops of the ſame. And alſo that all Our loving Subjects of this Kingdom, of what Dignity, Degree or Quality ſoever, may manifeſt their Zeal in ſo good a VVork, VVe do Recommend it to all Heads and Governors of Colleges and Halls in both Our Univerſities, and alſo to the Iudges and Officers of all and every Our reſpective Courts at <hi>Weſtminſter,</hi> and the Profeſſors of the Law, both Common and Civil, and to all Students of the ſeveral Inns of Court and Chan<g ref="char:EOLhyphen"/>cery, by their ſeveral Bodies and Societies, That they, and every of them, will Contribute their free and charitable Benevolence herein.</p>
+            <p>
+               <hi>AND LASTLY,</hi> Our VVill and Pleaſure is, That the Churchwardens of every Pariſh, where theſe Our Letters Patents ſhall be read, do Collect the Charity of each Pariſhioner in manner aforeſaid, and do pay the ſame within ten days unto the Parſon, Vicar or Curate of their reſpective Pariſhes; which ſaid Parſon, Vicar or Curate, ſhall, within ten days next after the Receipt of the ſaid Money, make return thereof, together with the printed Briefs, to his reſpective Arch<g ref="char:EOLhyphen"/>deacon as aforeſaid: And where there is no Incumbent, the Collector or Collectors ſhall pay the ſaid Money to the reſpective Archdeacon: And that the Archdea<g ref="char:EOLhyphen"/>cons of the ſeveral Archdeaconries do likewiſe return the ſaid Collections within twenty days next following into the Chamber of Our City of <hi>London</hi>: From whence VVe do hereby Authoriſe, Nominate and Appoint the moſt Reverend Father in God, the Lord Archbiſhop of <hi>Centerbury,</hi> the Lord High Chancelor of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> the Lord Preſident of Our Council, the Lord Privy Seal, the Duke of <hi>Ormond,</hi> the Duke of <hi>Beaufort,</hi> the Lord Chamberlain, the Earl of <hi>Huntington,</hi> the Earl of <hi>Peterborough,</hi> the Earl of <hi>Bridgwater,</hi> the Earl of <hi>Craven,</hi> the Earl of <hi>Berkley,</hi> the Earl of <hi>Nottingham,</hi> the Earl of <hi>Middleton,</hi> the Lord Vicount <hi>Fauconberge,</hi> the Right Reverend Fathers in God the Biſhop of <hi>Durham,</hi> the Biſhop of <hi>Wincheſter,</hi> the Biſhop of <hi>Ely,</hi> the Biſhop of <hi>Gloceſter,</hi> the Biſhop of <hi>Rocheſter,</hi> and the Biſhop of <hi>Peterborough</hi>; the Lord <hi>Preſton,</hi> the Lord <hi>Dartmouth,</hi> the Lord <hi>Godolphin,</hi> the Chancelor of the <hi>Exchequer,</hi> the Lord Chief Iuſtice <hi>Wright,</hi> the Lord Chief Iuſtice <hi>Her<g ref="char:EOLhyphen"/>bert,</hi> the Lord Chief Baron <hi>Atkyns,</hi> Sir <hi>Job Charleton,</hi> Our Attorney General, and Our Sollicitor General, the Lord Mayor of <hi>London</hi> for the time being, Sir <hi>William Turner,</hi> Sir <hi>William Prichard,</hi> Sir <hi>Robert Geffery,</hi> Sir <hi>John Holt,</hi> Sir <hi>William Goſtling,</hi> Sir <hi>Peter Vandeput,</hi> Sir <hi>John Mathews,</hi> Sir <hi>John Tate</hi> Recorder, Sir <hi>Jonathan Raymond,</hi> Sir <hi>Thomas Kenſey,</hi> Sir <hi>William Aſhurſt,</hi> Sir <hi>John Bauden,</hi> Sir <hi>John Iſles,</hi> Sir <hi>Bartholomew Shore,</hi> Sir <hi>Baſil Firebrace,</hi> Sir <hi>John Parſons,</hi> Sir <hi>Thomas Fitch, John Jeffreys</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Charles Duncombe</hi> 
+               <abbr>Eſq</abbr> Alderman <hi>Kiffin,</hi> Alderman <hi>St. Amand,</hi> the Dean of St. <hi>Pauls,</hi> the Dean of <hi>Canterbury,</hi> the Dean of <hi>Norwich,</hi> the Dean of <hi>Pe<g ref="char:EOLhyphen"/>terborough,</hi> the Dean of <hi>Windſor,</hi> the Dean of <hi>Worceſter,</hi> the Dean of St. <hi>Aſaph,</hi> Dr. <hi>Jeffreys,</hi> Dr. <hi>Teniſon,</hi> Dr. <hi>Sherlock,</hi> Dr. <hi>Scott,</hi> Dr. <hi>Dove,</hi> Dr. <hi>Cave,</hi> Dr. <hi>Horden,</hi> Sir <hi>Thomas Exton,</hi> Dr. <hi>Raines,</hi> Dr. <hi>Edisbury, Samuel Pepys, William Bridgman,</hi> and <hi>William Blaithwaite</hi> Eſquires, and <hi>Thomas Firman</hi> Gent. and they, or any five or more of them, are to diſpoſe and diſtribute the Money which ſhall be Collected by Virtue hereof, in ſuch manner as may beſt anſwer thoſe Ends for which theſe Letters Patents were intended. <hi>AND</hi> VVe do hereby Direct and Command, That the ſaid ſeveral Archdeacons ſhall and do make Returns unto the Lord Archbiſhop of <hi>Canterbury,</hi> of what Sums they have received, at the time when they ſhall pay the ſame into the Chamber of Our City of <hi>London</hi>: And that their reſpective Accompts be ſtated in VVords at length, and not in Figures only, and ſubſcribed with their own hands; Any Law, Statute, Act, Ordinance or Proviſion heretofore made to the contrary hereof in any wiſe notwithſtanding. <hi>IN WITNESS</hi> whereof, VVe have cauſed theſe Our Letters to be made Patents, and to continue for one whole Year from the Date hereof, and no longer.<hi>WITNESS</hi> Our Self at <hi>Weſtminſter,</hi> the One and thirtieth day of <hi>January,</hi> in the third Year of Our Reign.</p>
+            <closer>
+               <signed>FALL.</signed>
+            </closer>
+            <closer>GOD SAVE THE KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>In the <hi>Savoy</hi>: Printed by <hi>THOMAS NEWCOMB,</hi> One of His MAJESTIES Printers. 1687/8.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
